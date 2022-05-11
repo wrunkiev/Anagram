@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yWObj2wYQR+tqr11VHRxTatV3xRy5PXfvvUcvmfkVmv57qCSa+qajm1Xas3eBd128UoDrZpdISagAw1qzXSG0Q==",
+  "dgSpecHash": "1Lw3LTIsEA0+yJ/mPoWBaR7N5PWHT5+r2JS2q86ALIueHqopw1Gsk/X5jm+37dIiSnJt9S4KiUgawCTMLUYT/Q==",
   "success": true,
-  "projectFilePath": "C:\\Soft\\C# course\\Anagram\\Anagram.Tests\\Anagram.Tests.csproj",
+  "projectFilePath": "C:\\Soft\\C# course - GitHub\\Anagram\\Anagram.Tests\\Anagram.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\potapenkos\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\potapenkos\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

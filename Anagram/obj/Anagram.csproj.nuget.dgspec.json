@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Soft\\C# course\\Anagram\\Anagram\\Anagram.csproj": {}
+    "C:\\Soft\\C# course - GitHub\\Anagram\\Anagram\\Anagram.csproj": {}
   },
   "projects": {
-    "C:\\Soft\\C# course\\Anagram\\Anagram\\Anagram.csproj": {
+    "C:\\Soft\\C# course - GitHub\\Anagram\\Anagram\\Anagram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Soft\\C# course\\Anagram\\Anagram\\Anagram.csproj",
+        "projectUniqueName": "C:\\Soft\\C# course - GitHub\\Anagram\\Anagram\\Anagram.csproj",
         "projectName": "Anagram",
-        "projectPath": "C:\\Soft\\C# course\\Anagram\\Anagram\\Anagram.csproj",
+        "projectPath": "C:\\Soft\\C# course - GitHub\\Anagram\\Anagram\\Anagram.csproj",
         "packagesPath": "C:\\Users\\potapenkos\\.nuget\\packages\\",
-        "outputPath": "C:\\Soft\\C# course\\Anagram\\Anagram\\obj\\",
+        "outputPath": "C:\\Soft\\C# course - GitHub\\Anagram\\Anagram\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\potapenkos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }

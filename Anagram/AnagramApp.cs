@@ -8,7 +8,8 @@ namespace Anagram
     {
         private string ReverseWord(string word)
         {
-            char[] charResult = new char[word.Length];            
+            char[] charResult = new char[word.Length];    
+            
 
             int j = word.Length - 1;
 
